@@ -144,6 +144,11 @@ Vampires, while in Frenzy (Occult -5 to know: The Beast itself owes loyalty
  to the Lucifer, but the vampire does not).
 \end_layout
 
+\begin_layout Itemize
+Mages, who's Spirit or Death Arcana is higher than (not equal to) there
+ morality
+\end_layout
+
 \begin_layout Standard
 Many others can end up in Vassalage to the Father.
  Some mages trade there soul for power, others don't realise all they sign
@@ -157,6 +162,10 @@ Stereotypes
 
 \begin_layout Description
 Vampires 
+\end_layout
+
+\begin_layout Description
+Mages
 \end_layout
 
 \begin_layout Description
@@ -216,8 +225,9 @@ Heritage (Power Stat)
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="11" columns="4">
+<lyxtabular version="3" rows="11" columns="5">
 <features rotate="0" tabularvalignment="middle">
+<column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -236,7 +246,7 @@ Heritage
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+Skill/Attribute Max
 \end_layout
 
 \end_inset
@@ -245,7 +255,16 @@ Heritage
 \begin_inset Text
 
 \begin_layout Plain Layout
+Tempter Willpower/Per Turn
+\end_layout
 
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Vices
 \end_layout
 
 \end_inset
@@ -275,6 +294,18 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+5
 \end_layout
 
 \end_inset
@@ -284,6 +315,27 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+10/1
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
 \end_layout
 
 \end_inset
@@ -313,6 +365,18 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+5
 \end_layout
 
 \end_inset
@@ -322,6 +386,27 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+11/2
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
 \end_layout
 
 \end_inset
@@ -351,6 +436,18 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+5
 \end_layout
 
 \end_inset
@@ -360,6 +457,27 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+12/3
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2
 \end_layout
 
 \end_inset
@@ -389,6 +507,18 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+5
 \end_layout
 
 \end_inset
@@ -398,6 +528,27 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+13/4
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
 \end_layout
 
 \end_inset
@@ -427,6 +578,18 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+5
 \end_layout
 
 \end_inset
@@ -436,6 +599,27 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+14/5
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
 \end_layout
 
 \end_inset
@@ -465,6 +649,18 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+6
 \end_layout
 
 \end_inset
@@ -474,6 +670,27 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+15/6
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+3
 \end_layout
 
 \end_inset
@@ -503,6 +720,18 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+7
 \end_layout
 
 \end_inset
@@ -512,6 +741,27 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+20/7
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4
 \end_layout
 
 \end_inset
@@ -541,6 +791,18 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+8
 \end_layout
 
 \end_inset
@@ -550,6 +812,27 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+30/8
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4
 \end_layout
 
 \end_inset
@@ -579,6 +862,18 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+9
 \end_layout
 
 \end_inset
@@ -588,6 +883,27 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+50/10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+4
 \end_layout
 
 \end_inset
@@ -617,6 +933,18 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+10
 \end_layout
 
 \end_inset
@@ -626,6 +954,27 @@ Rank
 
 \begin_layout Plain Layout
 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+100/15
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+5
 \end_layout
 
 \end_inset
@@ -780,12 +1129,15 @@ Lord of Vice
 \end_layout
 
 \begin_layout Subsubsection
-Vice Ridden (2 vices)
+Vice Ridden (multiple-vices)
 \end_layout
 
 \begin_layout Standard
-All Seventh Sons start with the Vice-Ridden merit: They start with two Vices,
- but may only regain a willpower from either once per session.
+All Seventh Sons start with the benefit of the Vice-Ridden merit, and it
+ only gets better.
+ They start with two Vices, and gain more as they increase there heritage.
+ Between stories the Seventh Son may (with ST discussion) adjust their vices
+ to reflect there view of the world.
 \end_layout
 
 \begin_layout Subsubsection
@@ -813,16 +1165,50 @@ How similar a vice much be is flexible and is up to GM discretion, for example
  the vice of Slothful and Lazyness are normally close enough.
 \end_layout
 
+\begin_layout Subsection
+Lord of Temptation
+\end_layout
+
+\begin_layout Subsubsection
+Regaining Tempter Willpower
+\end_layout
+
+\begin_layout Standard
+A Seventh Son regains a willpower when ever someone else acts according
+ to the Seventh Sons Vice.
+\end_layout
+
+\begin_layout Standard
+Some blasphemies allow other methods to regain it
+\end_layout
+
+\begin_layout Subsubsection
+Uses of Tempter Willpower
+\end_layout
+
+\begin_layout Standard
+Tempter Willpower has three uses.
+ It can be used as willpower for purposes of:
+\end_layout
+
+\begin_layout Itemize
+Increasing Defense/Resistance, to increase by 2
+\end_layout
+
+\begin_layout Itemize
+On rolls, inline with one of the Seventh Son's Vices, to gain +3 dice
+\end_layout
+
+\begin_layout Itemize
+To activate Blasphemies
+\end_layout
+
 \begin_layout Section
 Blasphemies (Spells)
 \end_layout
 
-\begin_layout Subsection
-Blasphemy of Impertinence (of others)
-\end_layout
-
 \begin_layout Subsubsection
-Sight of Sin (1dot)
+Sight of Sin
 \end_layout
 
 \begin_layout Standard
@@ -862,7 +1248,7 @@ At a glance, with a moments concentration the seventh son knows the current
 \end_layout
 
 \begin_layout Subsubsection
-Knowledge of Guilt (2dots)
+Sight of Guilt
 \end_layout
 
 \begin_layout Description
@@ -958,7 +1344,11 @@ This will normally allow the character to impose the Leveraged Condition.
 \end_layout
 
 \begin_layout Subsubsection
-Freedom from Guilt (3dots)
+Freedom from Guilt
+\end_layout
+
+\begin_layout Description
+Prereq: Sight of Guilt
 \end_layout
 
 \begin_layout Description
@@ -1061,7 +1451,11 @@ For example if the target was guilty over a theft, by removing this breaking
 \end_layout
 
 \begin_layout Subsubsection
-Invert Morality (4dots)
+Invert Morality
+\end_layout
+
+\begin_layout Description
+PreReq: Sight of Sin
 \end_layout
 
 \begin_layout Description
@@ -1137,7 +1531,7 @@ Robbery of Old Men
 \end_layout
 
 \begin_layout Subsubsection
-Prison of Guilt (5dots)
+Prison of Guilt
 \end_layout
 
 \begin_layout Standard
@@ -1150,6 +1544,10 @@ Some guilts you will never be free of.
 The Seventh Son can bring those guilt to the surface, and make sure they
  never leave.
  Often this is enough to drive someone out of there mind.
+\end_layout
+
+\begin_layout Description
+PreReq: Sight of Guilt, Freedom From Guilt
 \end_layout
 
 \begin_layout Description
@@ -1271,6 +1669,166 @@ Extensive psychological counseling (and often medication), is the only way
 
 \begin_layout Standard
 and that itself is almost certain to trigger a breaking point every session.
+\end_layout
+
+\begin_layout Subsubsection
+Lord of Darkness
+\end_layout
+
+\begin_layout Description
+Cost None
+\end_layout
+
+\begin_layout Description
+Dice
+\begin_inset space ~
+\end_inset
+
+Pool Presence + Heritage
+\end_layout
+
+\begin_layout Description
+Action Instant
+\end_layout
+
+\begin_layout Description
+Duration Scene
+\end_layout
+
+\begin_layout Paragraph
+Roll Results
+\end_layout
+
+\begin_layout Subparagraph
+Dramatic Failure:
+\end_layout
+
+\begin_layout Standard
+Your dark blood fails you, any currently active blasphamies cease, all rolls
+ to activate blasphamies are at -1 til next dawn/dusk.
+\end_layout
+
+\begin_layout Subparagraph
+Failure
+\end_layout
+
+\begin_layout Standard
+No effect, you may try again at -1
+\end_layout
+
+\begin_layout Subparagraph
+Success
+\end_layout
+
+\begin_layout Standard
+The you assume a statue suitable for your lineage.
+ A dark lord who towers over his lessers, a ice queen who chills the bones
+ of all who hear her.
+ Not so subtle physical changes come over you.
+ Physical changes may include gaining or loosing 6 inches of height, or
+ width.
+\end_layout
+
+\begin_layout Standard
+You gain an additional dot of striking looks 
+\end_layout
+
+\begin_layout Standard
+Intimidate rolls are rote actions.
+\end_layout
+
+\begin_layout Subparagraph
+Exceptional Success
+\end_layout
+
+\begin_layout Standard
+Beyond the effects of a success:
+\end_layout
+
+\begin_layout Standard
+You gain a further dot of striking looks (for a total of 2 additional dots)
+\end_layout
+
+\begin_layout Standard
+Extended eye contact with the the seventh son is a breaking point.
+\end_layout
+
+\begin_layout Subsubsection
+Raise Your Dark Name
+\end_layout
+
+\begin_layout Description
+PreReqs: Lord of Darkness
+\end_layout
+
+\begin_layout Description
+Cost 1 Willpower
+\end_layout
+
+\begin_layout Description
+Dice
+\begin_inset space ~
+\end_inset
+
+Pool Presence + Socialise
+\end_layout
+
+\begin_layout Description
+Action Instant
+\end_layout
+
+\begin_layout Description
+Duration Chapter
+\end_layout
+
+\begin_layout Paragraph
+Roll Results
+\end_layout
+
+\begin_layout Subparagraph
+Dramatic Failure:
+\end_layout
+
+\begin_layout Standard
+Those dedicated to good learn of you, and will persue you for questioning
+ (for the rest of the chapter)
+\end_layout
+
+\begin_layout Subparagraph
+Failure
+\end_layout
+
+\begin_layout Standard
+No effect, you may try again at -1
+\end_layout
+
+\begin_layout Subparagraph
+Success
+\end_layout
+
+\begin_layout Standard
+Your name is raise in the minds of those who serve darkness.
+ They will come to you, to serve.
+ They will be willing to offer aid as per Ally's 3, Staff 3, or to the value
+ of Resource 3.
+ They are willing to commit crimes for which they are unlikely to be caught.
+ 
+\end_layout
+
+\begin_layout Subparagraph
+Exceptional Success 
+\end_layout
+
+\begin_layout Standard
+Beyond the effects of success
+\end_layout
+
+\begin_layout Standard
+One of the darkest souls amount humanity know and seeks you out, to sever.
+ He or she will have integrity zero, and has survided like that for many
+ years.
+ He or she has the skills to get away with a lot of things.
+ He or she is likely a slasher.
 \end_layout
 
 \begin_layout Section
